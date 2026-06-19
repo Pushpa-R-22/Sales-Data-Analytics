@@ -36,6 +36,11 @@ Key Insights
 - Highest Selling Product
 - Category-wise Sales Performance
 
+## 🎥 Demo Video
+
+Watch on LinkedIn:  
+https://www.linkedin.com/posts/pushpa-r22_mongodb-python-github-ugcPost-7473596123362799617-abc8/S
+
 Author
 
 Pushpa R
