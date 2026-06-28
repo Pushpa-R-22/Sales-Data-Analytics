@@ -41,6 +41,6 @@ Key Insights
 Watch on LinkedIn:  
 https://www.linkedin.com/posts/pushpa-r22_mongodb-python-github-ugcPost-7473596123362799617-abc8/S
 
-Author
+Developed By
 
 Pushpa R
